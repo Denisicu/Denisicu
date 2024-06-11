@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denisicu
 
-_I’m interested in *marketing*_
+_I’m interested in marketing_
 
 # 🌱’m currently learning how to make services
 - 💞️ I’m looking to collaborate on ...
