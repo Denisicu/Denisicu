@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Denisicu
 
-_ I’m interested in *marketing* _
+_I’m interested in *marketing*_
 
-# 🌱’m currently learning how to make **services**#
+# 🌱’m currently learning how to make services
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
