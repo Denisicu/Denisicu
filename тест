@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title>CSS в действии</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<h1>красивый заголовок 1</h1>
+<h2>красивый заголовок 2</h2>
+<br>
+<img src="logo.png" height="10%" width="10%">
+<h3>красивый заголовк 3</h3>
+<h4>заголовок для стати</h4>
+<h5>тест абзацей</h5>
+<hr>
+<p>абзац на странице</p>
+<p>второй обзац на странице</p>
+<p>тепер научусь добавлять картинки</p>
+</body>
+</html>
